@@ -1,1 +1,1 @@
-web: streamlit run bank_note_auth_streamlit_python.py
+web: gunicorn app:bank_note_auth_streamlit_python
