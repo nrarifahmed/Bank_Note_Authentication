@@ -1,1 +1,1 @@
-web: gunicorn app:bank_note_auth_streamlit_python
+web: gunicorn app:app
