@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run bank_note_auth_streamlit_python.py
+web: streamlit run bank_note_auth_streamlit_python.py
